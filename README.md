@@ -55,3 +55,12 @@ This tool monitors network interfaces and system processes, so it requires root 
 Bash
 
 sudo ./security_scan.sh
+
+
+
+Tool-Results:
+<img width="1325" height="768" alt="newtool" src="https://github.com/user-attachments/assets/2d5404cc-326e-46a4-a32a-2f32d3894f7d" />
+
+<img width="1329" height="756" alt="newtool1" src="https://github.com/user-attachments/assets/a47aff35-6fdc-438f-827b-b43b416991e3" />
+
+
