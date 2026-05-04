@@ -1,0 +1,1 @@
+# kali-linux-snipping_detector
